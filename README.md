@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## dependicies 
 
-This project is a starting point for a Flutter application.
+ torch_light: ^1.0.0
 
-A few resources to get you started if this is your first Flutter project:
+## short info
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+check flash light avaliblity , falsh on/off on user input(button), maintaing app life cycle
+flash off when app going to background or terminated
